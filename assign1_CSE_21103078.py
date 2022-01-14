@@ -10,7 +10,7 @@ print(float(d))
 
 
 # Question 2
-std_deduction = 10000
+standard_deduction = 10000
 depend_deduction = 3000
 gross = input("enter your gross income:")
 No_of_dependents = input("Enter your number of dependents:")
