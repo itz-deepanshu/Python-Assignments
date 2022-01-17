@@ -51,3 +51,4 @@ print("Part a question : ", colour)
 colour = ['Red', 'Green', 'White', 'Black', 'Pink', 'Yellow']
 colour[3:5] = ['Purple']
 print("Part b of question :", colour)
+#done
